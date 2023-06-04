@@ -1,0 +1,41 @@
+.logo {
+    padding-top: 5%;
+}
+.home-title {
+    flex-wrap: wrap;
+    width: 1133px;
+    height: 150px;
+    left: 153px;
+    font-style: normal;
+    font-weight: 600;
+    font-size:x-large;
+    text-align: center;
+    color: #7C1216;
+    line-height:normal;
+}
+
+.btn-primary {
+    --bs-btn-bg: #0B4423 !important;
+    --bs-btn-border-color: #0B4423 !important;
+    --bs-btn-hover-bg: #F6AA2C !important;
+    --bs-btn-border-radius: 43px !important;
+    --bs-btn-hover-border-color: #F6AA2C !important;
+    --bs-btn-active-bg: #0B4423 !important;
+    --bs-btn-active-border-color: #0B4423 !important;
+}
+
+.email {
+    border: 2px solid #F6AA2C !important;
+    background-color: #F6AA2C !important;
+    margin-bottom: 2%;
+}
+
+i {
+    position: absolute;
+    top: 60%;
+    right: 29%;
+}
+
+i:hover {
+    cursor: pointer;
+}

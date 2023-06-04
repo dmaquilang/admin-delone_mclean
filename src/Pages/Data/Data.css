@@ -1,0 +1,30 @@
+.box {
+    border: 2px solid #F6AA2C;
+    margin-left:20%;
+    border-radius: 30px;
+    padding-bottom: 3%;
+    padding-left: 3% !important;
+    padding-right: 3% !important;
+}
+
+.data-title {
+    flex-wrap: wrap;
+    width: 1133px;
+    left: 153px;
+    font-style: normal;
+    font-weight: 600;
+    font-size:x-large;
+    text-align: center;
+    color: #7C1216;
+    line-height:normal;
+    padding: 2%;
+}
+
+.csv {
+    width: fit-content;
+    border-color: 2px solid #0B4423 ;
+    border-radius: 10px;
+    background:#0B4423;
+    color: white;
+    float: right
+}
